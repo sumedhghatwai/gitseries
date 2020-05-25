@@ -1,0 +1,25 @@
+DAY ONE TASK
+
+Hello everyone! 
+I am Nanak Jaswani,pursuing
+my bachelors in Computer Technology from Yeshwantrao Chavan  College of Engineering(YCCE),Nagpur.
+
+Question1.What are git and GitHub?
+First of all, GitHub is not git.
+Many people understandably confuse the two.GitHub is a website for hosting projects that use git.
+Git was developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel.
+It is open-source,free and distributed version control system(VCS).that makes it easier to track changes to files. Git has trunk based development in it which involoves branches in the repository in which we can create a new branch even while working with current branch and also we can merge the new branch with the master branch if required at any point.GitHub is a website on which we wan can upload projects. 
+GitHub is a file sharing service to collaborate with different people.
+
+Question2.Why GitHub is so popular and used in most of the projects?
+GitHub is the world’s largest software development platform.It provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process.
+1.he Largest Shared Repository
+2.asy Version Control
+3.ecure Cloud Storage
+4.Separate public and private repositories
+
+Question3.What are the other platforms similar to GitHub?
+1.GitLab
+2.BitBucket
+3.SourceForge
+4.Launchpad
