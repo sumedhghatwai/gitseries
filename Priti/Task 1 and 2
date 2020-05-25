@@ -1,0 +1,7 @@
+Task 1 and Task 2 
+We came to know about the git and github .
+Git is a distributed version control tool that can manage a development project's source code history, while GitHub is a cloud based platform built around the Git tool. 
+Git is a tool a developer installs locally on their computer, while GitHub is an online service that stores code pushed to it from computers running the Git tool.
+
+Built-in CI / CD & going Beyond CD. One of the big differences between GitLab and GitHub is the built-in Continuous Integration/Delivery of GitLab.
+ CI is a huge time saver for many development teams and a great way of QA (nobody likes pull requests that break your application). GitLab offers their very own CI for free.
