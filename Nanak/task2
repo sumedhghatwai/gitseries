@@ -1,0 +1,13 @@
+Question1. How git workflow works? 
+Git workflow has four fundamental stage-
+a. Workspace: working directory
+b. Index(stage) :It is used as staging area between working directory and your repository
+c. Local repository is the one on which we will make local changes, generally Local repository is on our computer. 
+d. Remote repository is one of the server. 
+
+Question2. What are the different stages of a git project as commit, add? 
+1.Modified: you can make changes to your copy of the project without disturbing the original code. 
+2.staged:Staging area is the place where files has been added but changes have not been commited. 
+3.commit: The changes has been committed. 
+
+Question3. Q3>Is it possible to do a git commit before git add. If you have …
