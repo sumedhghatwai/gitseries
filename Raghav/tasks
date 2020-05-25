@@ -1,0 +1,58 @@
+DAY 1 TASK
+What is Git and GitHub?
+
+Git
+•Git is a distributed version control tool that can manage a development project's source code history
+•The Git tool runs locally on a computer, is completely self-sufficient, and it does not require the use of any external, cloud hosting service to function
+•Git is an Open Source Distributed Version Control System
+•Git is needed to ensure there are no code conflicts between the multiple developers working in parallel.
+
+GitHub
+•GitHub is a cloud based platform built around the Git tool
+•GitHub allows developers to host their files in a Repository’ so that other people can collaborate on projects with them
+•A GitHub repository can be used to store a development project.
+
+
+Why is GitHub so popular?
+
+•Github has more open source projects than any other code repository/version control platform in existence.
+•Useful in team projects
+
+
+What are other platforms similar to GitHub?
+BitBucket
+SourceForge
+Gitlab
+
+
+DAY 2 TASK
+
+Question1 How git workflow works?
+Answer: The workflow mainly consists of 4 parts, named:
+1.Workspace 
+2.Index(Staged area)
+3.Local Repository
+4.Remote Repository
+The workspace area is where user works on his files. After saving the work , the files can be added to local repo with commit command so the changes are saved locally and not pushed to the remote repo. Finally it can be pushed to remote repo so that any member can work on the updated files.
+
+
+Question2 What are the different stages of git project?
+ Answer: The different stages of git project are modified, staged and commit.
+Modified-we can make changes to our copy of project without changing the actual code
+Staged-This area contain all the added files that contain modified code and are ready to be commit but not yet commited.
+Commit:This is the final stage and commit changes to the local repository
+
+
+Question3: Is it possible to do a git commit before git add? If No, explain why?
+ Answer: No, it is not possible to commit before add. First we need to add files to staging area then only commit command can be applied to commit changes to local repo.
+
+
+Question4: Why is git diff used?
+ Answer: Git diff command is used to see the differences between files in staging area and workspace.
+
+
+Question5: Can we leave the commit messages as blank?
+ Answer: Yes, that can be done using the following command 
+ git commit -a --allow-empty-message -m "" 
+
+My GitHub repo link: https://github.com/raghav24agarwal/Git_learning
