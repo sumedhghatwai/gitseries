@@ -1,4 +1,4 @@
-Task 1:
+﻿Task 1:
 1.What is git and Github?
 -Git is a distributed control version software.Git is particularly a special tool which has a lot of advanced and sophisticated features for collaboration. It will keep track history of projects and allow many people to collaborate on project together.
 -GitHub is a website where developers store their projects and network with like minded people. IT is web-based platform used for version control. It makes easy to contribute to your open source project.
@@ -56,4 +56,6 @@ iv)Remote Repository
 5.Can we leave the commit meassage as blank ?
    git generally requires a non-empty message because providing a meaningfulcommit message is part of good development practice.
 But we can use  git commit -a –allow-empty-message -m ' ' command for passing blank message.
+
+hey there.
 
