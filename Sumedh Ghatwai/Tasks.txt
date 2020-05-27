@@ -41,3 +41,30 @@ e. Can we leave the commit message as blank?
 
 My demo GitHub Repository link:
 https://github.com/sumedhghatwai/DemoRepository
+
+Task #3:
+
+Hello, My name is Sumedh Ghatwai pursuing BE in IT from YCCE, Nagpur
+
+PR links:
+
+https://github.com/deepak2431/gitseries/pull/65
+
+https://github.com/deepak2431/gitseries/pull/66
+
+
+a. What is meant by the term fork and clone?
+Fork: By forking a project, we create our own copy of that project. Forking a GitHub repository is a way to create a personal, online duplicate of it.
+Clone: By cloning a project, we download a copy of that project to our local computer. We use git clone to copy someone else's remote copy of their local repository to our machine.
+
+b. What are branches in Github?
+Branches allow different versions of the same repository to develop independently at the same time, and we can recombine the contributions from different branches to the master branch later, this is called merging.
+
+c. What is PR?
+A pull request is a process of submitting contributions to an open development project. It happens when a contributor asks for changes committed to an external repository to be considered for inclusion in a project’s main repository.
+
+d. Can we delete the master branch if not Why?
+No we cannot delete the master branch because it is the main development line of the project on which different contributors are also branched. It can only be deleted by the owner of the master branch.
+
+e. How can we delete a branch?
+It can be done by using git branch -d command.
